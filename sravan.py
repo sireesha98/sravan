@@ -1,4 +1,4 @@
-N=input()
-i=0
-for i in range(N):
+z=input()
+x=0
+for x in range(z):
                  print("hellow world")
